@@ -1,7 +1,7 @@
 // Zeynep Hatice Guzeller 231ADB274
 // https://github.com/zeynep-guzeller/calc-lab-home
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
-// Resources used:https://chat.deepseek.com/share/p03jh5ad6esjpkbkqs 
+// Resources used: https://chat.deepseek.com/share/l01wbmd3y4syhbbbud
 //   token positions for error tracking, and the fseek+ftell file reading
 //   pattern. Conversation history attached to the submission.
 
